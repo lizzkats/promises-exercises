@@ -57,17 +57,17 @@ Specifications
 
  Look at the documentation of the pg-promise repository
  Exercises 1-7 in the pg promise exercises are complete
-  [ ] - Exercise 1
-  [ ] - Exercise 2
-  [ ] - Exercise 3
-  [ ] - Exercise 4
-  [ ] - Exercise 5
-  [ ] - Exercise 6
-  [ ] - Exercise 7
+  [x] - Exercise 1
+  [x] - Exercise 2
+  [x] - Exercise 3
+  [x] - Exercise 4
+  [x] - Exercise 5
+  [x] - Exercise 6
+  [x] - Exercise 7
 
 ##Stretch
 
- [ ] - Read Google’s Introduction to Promises
+ [x] - Read Google’s Introduction to Promises
 
 ##Quality Rubric
 
